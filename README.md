@@ -3,7 +3,7 @@ klobuchar and collins models calculation
 
 #Klobuchar Ionospheric Model
 
-![Klobuchar image ](https://gssc.esa.int/navipedia/images/f/ff/Klobuchar_IPP_slide.pnghttps://gssc.esa.int/navipedia/images/f/ff/Klobuchar_IPP_slide.png)
+![Klobuchar image](https://gssc.esa.int/navipedia/images/e/ed/NeQuickIonoVTECmap.jpeg)
 
 GPS satellites broadcast the parameters of the Klobuchar ionospheric model for single frequency users.
 The Klobuchar model was designed to minimise user computational complexity and user computer storage as
